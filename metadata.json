@@ -2,7 +2,7 @@
   "uuid": "gnome.ext.song.title@jackpts.github.com",
   "name": "Shows ncmpcpp song title",
   "description": "A simple GNOME Shell extension that shows ncmpcpp song title.",
-  "shell-version": ["46", "47"],
+  "shell-version": ["47"],
   "version": 1,
   "url": "https://github.com/jackpts/gnome.ext.song.title"
 }
